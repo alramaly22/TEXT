@@ -2363,7 +2363,7 @@ body.dark-theme main {
 body:not(.dark-theme) main {
 
   overflow: hidden;
-  background: linear-gradient(rgb(0 0 0 / 95%), rgb(0 0 0 / 99%)), url(../image/whitelogo.webp) no-repeat center center fixed;
+  background: linear-gradient(rgb(0 0 0 / 95%), rgb(0 0 0 / 99%)), url(../image/blacklogo.webp) no-repeat center center fixed;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -2379,7 +2379,7 @@ body.dark-theme footer {
 body:not(.dark-theme) footer {
 
   overflow: hidden;
-  background: linear-gradient(rgb(0 0 0 / 95%), rgb(0 0 0 / 99%)), url(../image/whitelogo.webp) no-repeat center center fixed;
+  background: linear-gradient(rgb(0 0 0 / 95%), rgb(0 0 0 / 99%)), url(../image/blacklogo.webp) no-repeat center center fixed;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
